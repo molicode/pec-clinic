@@ -1,1 +1,1 @@
-# PecClinic
+# Pec - Clinic
